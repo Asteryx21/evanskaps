@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import ABOUT_IMG from '../assets/Screenshot_1.png';
 import {FaUniversity} from 'react-icons/fa';
 import {SiMicrosoftacademic} from 'react-icons/si'
@@ -7,6 +7,7 @@ import PAPER from '../assets/m65496-paper-final.pdf';
 
 
 export default function about() {
+ 
   return (
     <section id='about'>
       <h2>About me</h2>
@@ -22,17 +23,17 @@ export default function about() {
             <article className='about_card'>
               <FaUniversity className='about_icon'/>
               <h5>Education</h5>
-              <small>Integrated Master's diploma in <a href='https://www.ceid.upatras.gr/en' target='blank'>Computer Engineering & Informatics</a></small>
+              <small><a href='https://www.ceid.upatras.gr/en' target='blank'>Computer Engineering & Informatics</a></small>
             </article>
             <article className='about_card'>
               <HiAcademicCap className='about_icon'/>
               <h5>Master Thesis</h5>
-              <small>Designed & developed a Serious Game. Was made into a paper after.</small>
+              <small><a href='#projects'>Galaxy Solutions</a></small>
             </article>
             <article className='about_card'>
               <SiMicrosoftacademic className='about_icon'/>
               <h5>Publication</h5>
-              <small>Will be presented at <a href='https://2023.ieee-educon.org/' target="blank">EDUCON.</a> <br></br> <a href={PAPER} target="blank" className='btn'> View paper</a></small>
+              <small>Will be presented at <a href='https://2023.ieee-educon.org/' target="blank">EDUCON.</a>  <a href={PAPER} target="blank"> View paper</a></small>
             </article>
           </div>
           <p>
