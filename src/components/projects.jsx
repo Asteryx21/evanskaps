@@ -5,6 +5,7 @@ import PROJECT3 from '../assets/project_c.png';
 import PROJECT4 from '../assets/project_d.png';
 import PROJECT5 from '../assets/project_e.png';
 import PROJECT6 from '../assets/project_f.png';
+import PROJECT7 from '../assets/project_g.png';
 
 const data = [
   {
@@ -12,8 +13,17 @@ const data = [
     image: PROJECT3,
     title: 'Galaxy Solutions',
     technologies: 'Python, PyGame library, RenPy (scripting language), Figma, SPSS',
-    description: 'Designed & developed a Serious Game (Galaxy Solutions) for the purpose of my Master Thesis. The game aims to prepare a software engineering graduate for the hiring process for an entry level job. The game was used by 105 Software Engineering students who were asked to evaluate it through two questionnaires (a pre-test and a post-test).',
+    description: 'This Serious Game simulates all the stages of the recruitment process. It starts when the player is searching for vacancies and submitting applications, continues to the interview process, and concludes at the last stage, in which a company named “Jupiter Solutions” hires the player. The main objective of this game is to help graduates acquire basic interview skills and be aware of the whole process by making the learning experience more enjoyable and engaging. Throughout the game, the player must make decisions through multiple-choice actions and dialogue, and all these decisions affect the character’s events in the future.',
     github: 'https://evanskaps.itch.io/galaxy-solutions',
+    demo: ''
+  },
+  {
+    id: 7,
+    image: PROJECT7,
+    title: 'Project KaPa',
+    technologies: 'JavaScript, JQuery, PHP, MySQL, CSS, SCSS',
+    description: 'The user can register to our platform and: See information about our team, in the Calendar section where the events are posted they can click on some event and they can declare if they are interested to participate. In the Services section there is a map where they can see the areas where the team have done clean-ups (Green markers) and report a poluted area (Red markers). In the Education section there is quiz regarding 3Rs mentality. In the Profile section they can see the events they declared interested and a graph with all the users and their participation rates.',
+    github: 'https://github.com/Asteryx21/projectkapa',
     demo: ''
   },
   {
@@ -61,15 +71,7 @@ const data = [
     github: 'https://github.com/Asteryx21/Web',
     demo: ''
   },
-  // {
-  //   id: 7,
-  //   image: PROJECT6,
-  //   title: 'Project KaPa',
-  //   technologies: 'JavaScript, JavaScript ES6,  JQuery, PHP, MySQL, CSS',
-  //   description: '',
-  //   github: 'https://github.com/Asteryx21/Web',
-  //   demo: ''
-  // },
+
 
 ]
 
