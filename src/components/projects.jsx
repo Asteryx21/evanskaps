@@ -6,6 +6,7 @@ import PROJECT4 from '../assets/project_d.png';
 import PROJECT5 from '../assets/project_e.png';
 import PROJECT6 from '../assets/project_f.png';
 import PROJECT7 from '../assets/project_g.png';
+import PROJECT8 from '../assets/project_h.png'
 
 const data = [
   {
@@ -24,6 +25,15 @@ const data = [
     technologies: 'JavaScript, JQuery, PHP, MySQL, CSS, SCSS',
     description: 'The user can register to our platform and: See information about our team, in the Calendar section where the events are posted they can click on some event and they can declare if they are interested to participate. In the Services section there is a map where they can see the areas where the team have done clean-ups (Green markers) and report a poluted area (Red markers). In the Education section there is quiz regarding 3Rs mentality. In the Profile section they can see the events they declared interested and a graph with all the users and their participation rates.',
     github: 'https://github.com/Asteryx21/projectkapa',
+    demo: ''
+  },
+  {
+    id: 8,
+    image: PROJECT8,
+    title: 'Project Waste',
+    technologies: 'React JS, React Leaflet, React Three Fiber, Three.js',
+    description: 'The project displays 2020 Eurostat data on recycling rates, waste production per capita, and renewable energy usage percentages for various European countries. The data is visualized on a map, allowing users to compare the environmental sustainability of different regions at a glance. The user can select from the top left dropmenu the data that he wants to visualize on the map. The legend updates aswell providing information of what the user sees each time. Also by clicking on each country displayed on the map he gets more information about the data that is provided.',
+    github: 'https://asteryx21.github.io/waste_project/',
     demo: ''
   },
   {
