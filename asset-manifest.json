@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8ea8c76.css",
-    "main.js": "/static/js/main.a877f3fd.js",
-    "static/media/project_g.png": "/static/media/project_g.6856c200a98ed0ddb6d4.png",
-    "static/media/m65496-paper-final.pdf": "/static/media/m65496-paper-final.438d2cd82b786ca33745.pdf",
-    "static/media/project_f.png": "/static/media/project_f.43de1f167fdf921c4c94.png",
-    "static/media/project_h.png": "/static/media/project_h.7b58313fc84a13a3cee2.png",
-    "static/media/Screenshot_1.png": "/static/media/Screenshot_1.9b237b5b27d8fe42f960.png",
-    "static/media/project_a.png": "/static/media/project_a.4280ff53983d32b22f4f.png",
-    "static/media/project_c.png": "/static/media/project_c.9fe16e8524d8f3fb99c1.png",
-    "static/media/project_b.png": "/static/media/project_b.3be19e50df461eae6075.png",
-    "static/media/project_d.png": "/static/media/project_d.637b9dace0f5d314dab4.png",
-    "static/media/project_e.png": "/static/media/project_e.606a6b71bc0156288166.png",
-    "static/media/evanskaps.pdf": "/static/media/evanskaps.747649cfc37f68328e26.pdf",
-    "index.html": "/index.html",
-    "main.c8ea8c76.css.map": "/static/css/main.c8ea8c76.css.map",
-    "main.a877f3fd.js.map": "/static/js/main.a877f3fd.js.map"
+    "main.css": "/evanskaps/static/css/main.c8ea8c76.css",
+    "main.js": "/evanskaps/static/js/main.f6e5049d.js",
+    "static/media/project_g.png": "/evanskaps/static/media/project_g.6856c200a98ed0ddb6d4.png",
+    "static/media/m65496-paper-final.pdf": "/evanskaps/static/media/m65496-paper-final.438d2cd82b786ca33745.pdf",
+    "static/media/project_f.png": "/evanskaps/static/media/project_f.43de1f167fdf921c4c94.png",
+    "static/media/project_h.png": "/evanskaps/static/media/project_h.7b58313fc84a13a3cee2.png",
+    "static/media/Screenshot_1.png": "/evanskaps/static/media/Screenshot_1.9b237b5b27d8fe42f960.png",
+    "static/media/project_a.png": "/evanskaps/static/media/project_a.4280ff53983d32b22f4f.png",
+    "static/media/project_c.png": "/evanskaps/static/media/project_c.9fe16e8524d8f3fb99c1.png",
+    "static/media/project_b.png": "/evanskaps/static/media/project_b.3be19e50df461eae6075.png",
+    "static/media/project_d.png": "/evanskaps/static/media/project_d.637b9dace0f5d314dab4.png",
+    "static/media/project_e.png": "/evanskaps/static/media/project_e.606a6b71bc0156288166.png",
+    "static/media/evanskaps.pdf": "/evanskaps/static/media/evanskaps.747649cfc37f68328e26.pdf",
+    "index.html": "/evanskaps/index.html",
+    "main.c8ea8c76.css.map": "/evanskaps/static/css/main.c8ea8c76.css.map",
+    "main.f6e5049d.js.map": "/evanskaps/static/js/main.f6e5049d.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ea8c76.css",
-    "static/js/main.a877f3fd.js"
+    "static/js/main.f6e5049d.js"
   ]
 }
